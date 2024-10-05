@@ -1,0 +1,55 @@
+Land,Valuta,Koers_naar_USD
+USA,USD,1.0
+UK,GBP,1.33
+New Zealand,NZD,0.63
+Canada,CAD,0.74
+Australia,AUD,0.68
+Belgium,EUR,1.11
+Japan,JPY,0.0069
+Germany,EUR,1.11
+China,CNY,0.14
+France,EUR,1.11
+Mexico,MXN,0.05
+Spain,EUR,1.11
+Hong Kong,HKD,0.13
+Czech Republic,CZK,0.044
+India,INR,0.012
+South Korea,KRW,7.6e-05
+Peru,PEN,0.268
+Italy,EUR,1.11
+Russia,RUB,0.0107
+Denmark,DKK,0.15
+Ireland,EUR,1.11
+South Africa,ZAR,0.058
+Iceland,ISK,0.0074
+Switzerland,CHF,1.184
+Romania,RON,0.224
+Netherlands,EUR,1.11
+Hungary,HUF,0.0028
+Greece,EUR,1.11
+Sweden,SEK,0.0987
+Norway,NOK,0.0948
+Taiwan,TWD,0.0317
+Cambodia,KHR,0.000245
+Thailand,THB,0.03
+Slovakia,EUR,1.11
+Bulgaria,BGN,0.57
+Iran,IRR,2.3738816e-05
+Poland,PLN,0.26
+Turkey,TRY,0.029
+Nigeria,NGN,0.00060493026
+Brazil,BRL,0.183
+Finland,EUR,1.11
+Bahamas,BSD,1.0
+Argentina,ARS,0.01
+Colombia,COP,0.00023999137
+Israel,ILS,0.27
+Egypt,EGP,0.0206
+Indonesia,IDR,6.6187407e-05
+Pakistan,PKR,0.0036020965
+Slovenia,EUR,1.11
+Dominican Republic,DOP,0.0166
+United Arab Emirates,AED,0.27
+Kenya,KES,0.0077
+Philippines,PHP,0.017
+Libya,LYD,0.209
